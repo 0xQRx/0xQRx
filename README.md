@@ -3,7 +3,7 @@
 
 - 🎓 **OSCP** | **CRTO** | **BSCP** | **PNPT** | **CEH** | **Security+**
 
-- 📫 How to reach me **yevhenii.butenko@outlook.com**
+- 📫 How to reach me via [email](mailto:yevhenii.butenko@outlook.com)
  
 - 🤝 Connect with me on <a href="https://www.linkedin.com/in/yevhenii-butenko/">LinkedIn</a>
 
