@@ -1,7 +1,7 @@
 <h1 align="center">Hi there👋 and Welcome!🍻</h1>
 <h3 align="center">I am a passionate cybersecurity professional, currently working as a Penetration Tester.</h3>
 
-- 🎓 **OSCP** | **CRTL** | **CRTO** | **eMAPT** | **BSCP** | **PNPT** | **CEH** | **Security+**
+- 🎓 **OSCP** | **CRTL** | **CPTS** | **CRTO** | **eMAPT** | **BSCP** | **PNPT** | **CEH** | **Security+**
 
 - 📫 How to reach me via [email](mailto:yevhenii.butenko@outlook.com)
  
