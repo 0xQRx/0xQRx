@@ -3,7 +3,7 @@
 
 - 🎓 **OSCP** | **CRTL** | **CPTS** | **CRTO** | **eMAPT** | **BSCP** | **PNPT** | **CEH** | **Security+**
 
-- 𝕏 How to reach me via <a href="https://x.com/i/flow/login?redirect_after_login=%2F0xQRx">𝕏</a> 
+- 𝕏 How to reach me via <a href="https://x.com/0xqrx">𝕏</a> 
  
 - 🤝 Connect with me on <a href="https://www.linkedin.com/in/yevhenii-butenko/">LinkedIn</a>
 
